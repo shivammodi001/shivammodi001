@@ -58,7 +58,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-
 ---
 
 ### 🌐 Let's Connect
@@ -80,10 +79,30 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammodi001&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shivammodi001.shivammodi001" alt="Visitors"/>
 </p>
 
+---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivammodi001&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivammodi001&theme=redical&area=true&hide_border=true" />
+</p>
+
+---
 
 
 ---
@@ -97,11 +116,15 @@
 
 ### 🎯 Goals for 2025
 
-- ✅ Master Blockchain and Smart Contract Auditing
-- ✅ Dominate top-tier coding platforms (LeetCode, HackerRank)
-- ✅ Build a startup/product that solves real-world problems
+- ✅ Master Blockchain and Smart Contract Auditing  
+- ✅ Dominate top-tier coding platforms (LeetCode, HackerRank)  
+- ✅ Build a startup/product that solves real-world problems  
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with-💖%20by%20Shivam%20Modi-blueviolet?style=for-the-badge" />
