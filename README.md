@@ -53,8 +53,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivammodi001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shivammodi001.shivammodi001" alt="Visitors"/>
 </p>
+
 
 
 
