@@ -28,9 +28,31 @@
 
 ### 🚀 Tech Stack & Tools
 
+#### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,php,linux,git,github,tailwind,oracle,solidity,hardhat,remix" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
+
+#### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,cpp,c" />
+</p>
+
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" />
+</p>
+
+#### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
+
+#### ⛓️ Blockchain
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,hardhat,remix" />
+</p>
+
 
 ---
 
