@@ -52,6 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivammodi001&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivammodi001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 
 ---
 
