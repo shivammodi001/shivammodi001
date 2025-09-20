@@ -129,3 +129,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with-💖%20by%20Shivam%20Modi-blueviolet?style=for-the-badge" />
 </p>
+
+### 🐍 Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivammodi001/shivammodi001/output/snake.svg" />
+</p>
+
