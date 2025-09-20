@@ -86,6 +86,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shivammodi001.shivammodi001" alt="Visitors"/>
 </p>
 
+
+![snake gif](https://github.com/shivammodi001/shivammodi001/blob/output/github-snake-dark.svg)
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -130,8 +133,6 @@
   <img src="https://img.shields.io/badge/Built%20with-💖%20by%20Shivam%20Modi-blueviolet?style=for-the-badge" />
 </p>
 
-### 🐍 Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivammodi001/shivammodi001/output/snake.svg" />
-</p>
+
+
 
