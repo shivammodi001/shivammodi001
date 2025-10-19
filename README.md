@@ -1,4 +1,4 @@
-<!-- Auto-generated GitHub Profile README | Last updated: April 17, 2025 -->
+<!-- Auto-generated GitHub Profile README | Last updated: October 19, 2025 -->
 
 <h1 align="center">Hi 👋, I'm Shivam Modi</h1>
 <h3 align="center">🚀 Full-Stack Developer | 💻 Competitive Programmer | 🏋️ Powerlifter</h3>
@@ -28,34 +28,13 @@
 
 ### 🚀 Tech Stack & Tools
 
-#### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-#### ⚙️ Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python" />
-</p>
-
-#### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" />
-</p>
-
-#### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
-
-#### ⛓️ Blockchain & Web3
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,hardhat,remix" />
-</p>
-
-#### 🧑‍💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="40" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python" height="40" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" height="40" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" height="40" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=solidity,hardhat,remix" height="40" alt="Blockchain"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" height="40" alt="Programming Languages"/>
 </p>
 
 ---
@@ -86,16 +65,17 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shivammodi001.shivammodi001" alt="Visitors"/>
 </p>
 
+---
 
 ![snake gif](https://github.com/shivammodi001/shivammodi001/blob/output/github-snake-dark.svg)
 
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivammodi001&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
-
 
 ---
 
@@ -104,9 +84,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivammodi001&theme=redical&area=true&hide_border=true" />
 </p>
-
----
-
 
 ---
 
@@ -132,7 +109,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with-💖%20by%20Shivam%20Modi-blueviolet?style=for-the-badge" />
 </p>
-
-
-
-
