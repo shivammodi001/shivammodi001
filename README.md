@@ -61,10 +61,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivammodi001&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shivammodi001.shivammodi001" alt="Visitors"/>
-</p>
-
 ---
 
 ![snake gif](https://github.com/shivammodi001/shivammodi001/blob/output/github-snake-dark.svg)
